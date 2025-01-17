@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: f832667bf163c4fb8a973f604ad5388f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -328356566768886184
+    second: Figure_Logo_GOTOIA_0
+  - first:
+      213: -2520205185969121052
+    second: Figure_Logo_GOTOIA_1
+  - first:
+      213: 2435607829731265969
+    second: Figure_Logo_GOTOIA_2
+  - first:
+      213: 3927708847689878602
+    second: Figure_Logo_GOTOIA_3
+  - first:
+      213: -2816403975621463469
+    second: Figure_Logo_GOTOIA_4
+  - first:
+      213: -8792084376072841225
+    second: Figure_Logo_GOTOIA_5
+  - first:
+      213: 87069599083562977
+    second: Figure_Logo_GOTOIA_6
+  - first:
+      213: 935084272550183149
+    second: Figure_Logo_GOTOIA_7
+  - first:
+      213: 9021799923119458115
+    second: Figure_Logo_GOTOIA_8
+  - first:
+      213: 6535107911293750396
+    second: Figure_Logo_GOTOIA_9
+  - first:
+      213: -1999898060722486499
+    second: Figure_Logo_GOTOIA_10
+  - first:
+      213: -3049602565937676584
+    second: Figure_Logo_GOTOIA_11
+  - first:
+      213: 8995683964016670801
+    second: Figure_Logo_GOTOIA_12
+  - first:
+      213: -2929021540168279550
+    second: Figure_Logo_GOTOIA_13
+  - first:
+      213: -4908877339870652191
+    second: Figure_Logo_GOTOIA_14
+  - first:
+      213: -6875075865737598067
+    second: Figure_Logo_GOTOIA_15
+  - first:
+      213: 2501724574534768917
+    second: Figure_Logo_GOTOIA_16
+  - first:
+      213: -5123109954121415915
+    second: Figure_Logo_GOTOIA_17
+  - first:
+      213: 9182963826307287502
+    second: Figure_Logo_GOTOIA_18
+  - first:
+      213: -7024910174919106529
+    second: Figure_Logo_GOTOIA_19
+  - first:
+      213: 4024789728208652955
+    second: Figure_Logo_GOTOIA_20
+  - first:
+      213: 3739521385255069807
+    second: Figure_Logo_GOTOIA_21
+  - first:
+      213: -6570622450415042781
+    second: Figure_Logo_GOTOIA_22
+  - first:
+      213: 5494890442720799100
+    second: Figure_Logo_GOTOIA_23
+  - first:
+      213: 3099783339326152901
+    second: Figure_Logo_GOTOIA_24
+  - first:
+      213: -3303642251113030565
+    second: Figure_Logo_GOTOIA_25
+  - first:
+      213: -1851736791966191949
+    second: Figure_Logo_GOTOIA_26
+  - first:
+      213: -1485403141896067803
+    second: Figure_Logo_GOTOIA_27
+  - first:
+      213: -1842617194984449220
+    second: Figure_Logo_GOTOIA_28
+  - first:
+      213: -591795148598097810
+    second: Figure_Logo_GOTOIA_29
+  - first:
+      213: 4237132690084478706
+    second: Figure_Logo_GOTOIA_30
+  - first:
+      213: -94750321100139231
+    second: Figure_Logo_GOTOIA_31
+  - first:
+      213: 2438639730293411609
+    second: Figure_Logo_GOTOIA_32
+  - first:
+      213: -8668378610286836859
+    second: Figure_Logo_GOTOIA_33
+  - first:
+      213: 6975299180779177956
+    second: Figure_Logo_GOTOIA_34
+  - first:
+      213: 7770106363922635285
+    second: Figure_Logo_GOTOIA_35
+  - first:
+      213: 7844765856755670872
+    second: Figure_Logo_GOTOIA_36
+  - first:
+      213: -4969433514687065719
+    second: Figure_Logo_GOTOIA_37
+  - first:
+      213: -2638124971633332434
+    second: Figure_Logo_GOTOIA_38
+  - first:
+      213: 1961771921238562769
+    second: Figure_Logo_GOTOIA_39
+  - first:
+      213: -6275872094289015651
+    second: Figure_Logo_GOTOIA_40
+  - first:
+      213: -9023578172082198950
+    second: Figure_Logo_GOTOIA_41
+  - first:
+      213: 6734730930256468372
+    second: Figure_Logo_GOTOIA_42
+  - first:
+      213: -929555279478051145
+    second: Figure_Logo_GOTOIA_43
+  - first:
+      213: -7534944390948683884
+    second: Figure_Logo_GOTOIA_44
+  - first:
+      213: 1131842444122394385
+    second: Figure_Logo_GOTOIA_45
+  - first:
+      213: -6380704827470468410
+    second: Figure_Logo_GOTOIA_46
+  - first:
+      213: -16275207163828911
+    second: Figure_Logo_GOTOIA_47
+  - first:
+      213: 7643921404060406845
+    second: Figure_Logo_GOTOIA_48
+  - first:
+      213: -5827617099089693473
+    second: Figure_Logo_GOTOIA_49
+  - first:
+      213: -6576043914028768091
+    second: Figure_Logo_GOTOIA_50
+  - first:
+      213: -1806270021173874089
+    second: Figure_Logo_GOTOIA_51
+  - first:
+      213: 7365089028776926722
+    second: Figure_Logo_GOTOIA_52
+  - first:
+      213: -7436062794902769771
+    second: Figure_Logo_GOTOIA_53
+  - first:
+      213: -5018880493743857336
+    second: Figure_Logo_GOTOIA_54
+  - first:
+      213: 3397022853287826665
+    second: Figure_Logo_GOTOIA_55
+  - first:
+      213: 1317649057359611036
+    second: Figure_Logo_GOTOIA_56
+  - first:
+      213: 6851446423932225064
+    second: Figure_Logo_GOTOIA_57
+  - first:
+      213: 7873177766201330290
+    second: Figure_Logo_GOTOIA_58
+  - first:
+      213: -853823587310850542
+    second: Figure_Logo_GOTOIA_59
+  - first:
+      213: 8962600113053776572
+    second: Figure_Logo_GOTOIA_60
+  - first:
+      213: -7654241964236881787
+    second: Figure_Logo_GOTOIA_61
+  - first:
+      213: 3261538756077071382
+    second: Figure_Logo_GOTOIA_62
+  - first:
+      213: 6138040812434709621
+    second: Figure_Logo_GOTOIA_63
+  - first:
+      213: -534645784234025465
+    second: Figure_Logo_GOTOIA_64
+  - first:
+      213: 8358011349520528694
+    second: Figure_Logo_GOTOIA_65
+  - first:
+      213: -6555869351663604068
+    second: Figure_Logo_GOTOIA_66
+  - first:
+      213: -4179495642454234792
+    second: Figure_Logo_GOTOIA_67
+  - first:
+      213: -8939850290740993964
+    second: Figure_Logo_GOTOIA_68
+  - first:
+      213: -6047841722407901326
+    second: Figure_Logo_GOTOIA_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_0
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 73
+        width: 1081
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ed2163171717bf0800000000000000
+      internalID: -328356566768886184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_1
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 837
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e896396cbe660dd0800000000000000
+      internalID: -2520205185969121052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_2
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 804
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdca4faa640dc120800000000000000
+      internalID: 2435607829731265969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_3
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 804
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cc6b71366028630800000000000000
+      internalID: 3927708847689878602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_4
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 777
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352b511918f1ae8d0800000000000000
+      internalID: -2816403975621463469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_5
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 788
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f79ae8a7dd3cf580800000000000000
+      internalID: -8792084376072841225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_6
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 753
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e78c1cc655553100800000000000000
+      internalID: 87069599083562977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 753
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0886c01361afc00800000000000000
+      internalID: 935084272550183149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_8
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 753
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3478e240b3fd33d70800000000000000
+      internalID: 9021799923119458115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_9
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 740
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c4285550e51ba50800000000000000
+      internalID: 6535107911293750396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_10
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 710
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c4a74f4fee34e0800000000000000
+      internalID: -1999898060722486499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_11
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 727
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de3a2faf92ada5d0800000000000000
+      internalID: -3049602565937676584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_12
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 696
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15834e277e617dc70800000000000000
+      internalID: 8995683964016670801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_13
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 707
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a5dc68d660a57d0800000000000000
+      internalID: -2929021540168279550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_14
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 710
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e89b07511a20ebb0800000000000000
+      internalID: -4908877339870652191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_15
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 678
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b69d20de2d690a0800000000000000
+      internalID: -6875075865737598067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_16
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 671
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519920fee39e7b220800000000000000
+      internalID: 2501724574534768917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_17
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 685
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513435fd3ae07e8b0800000000000000
+      internalID: -5123109954121415915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_18
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 653
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ce4452f0707f70800000000000000
+      internalID: 9182963826307287502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 671
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f106bec5a61828e90800000000000000
+      internalID: -7024910174919106529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_20
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 667
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a848dfeecead730800000000000000
+      internalID: 4024789728208652955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_21
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 651
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68ea1613e275e330800000000000000
+      internalID: 3739521385255069807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_22
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 645
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ffdc9a1b570d4a0800000000000000
+      internalID: -6570622450415042781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_23
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 650
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ef069eb5c14c40800000000000000
+      internalID: 5494890442720799100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_24
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 628
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a5351684a40b20800000000000000
+      internalID: 3099783339326152901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_25
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 619
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c9f6540ea1722d0800000000000000
+      internalID: -3303642251113030565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_26
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 635
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6559d23f4d46e0800000000000000
+      internalID: -1851736791966191949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_27
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525290366b9c26be0800000000000000
+      internalID: -1485403141896067803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_28
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 621
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bdceb7c65bd66e0800000000000000
+      internalID: -1842617194984449220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_29
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 611
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68c204a27589c7f0800000000000000
+      internalID: -591795148598097810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_30
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 604
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe3eaa7bb15dca30800000000000000
+      internalID: 4237132690084478706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_31
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 593
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d870c5116faef0800000000000000
+      internalID: -94750321100139231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_32
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 586
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0b4b0ae9c7d120800000000000000
+      internalID: 2438639730293411609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_33
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 604
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583424bb49bb3b780800000000000000
+      internalID: -8668378610286836859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_34
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 586
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e78a60f5ad3dc060800000000000000
+      internalID: 6975299180779177956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_35
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 590
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a5c98f196f4db60800000000000000
+      internalID: 7770106363922635285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_36
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 562
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd80ebbf43edc60800000000000000
+      internalID: 7844765856755670872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_37
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 560
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981182e2c86090bb0800000000000000
+      internalID: -4969433514687065719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_38
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 569
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f25b0d05f736bd0800000000000000
+      internalID: -2638124971633332434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_39
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 569
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d792cf1b2d993b10800000000000000
+      internalID: 1961771921238562769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_40
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 537
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ccd1cc49f97e8a0800000000000000
+      internalID: -6275872094289015651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_41
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 557
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a566212267fc5c280800000000000000
+      internalID: -9023578172082198950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_42
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 533
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499d5c35912967d50800000000000000
+      internalID: 6734730930256468372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_43
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 527
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be2f97f56e8913f0800000000000000
+      internalID: -929555279478051145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_44
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 537
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f7e2f8fff7e6790800000000000000
+      internalID: -7534944390948683884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_45
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 533
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f00a7c4bc15bf00800000000000000
+      internalID: 1131842444122394385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_46
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 518
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caa00e04ce2377a0800000000000000
+      internalID: -6380704827470468410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_47
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 516
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155aa5a09cd26cff0800000000000000
+      internalID: -16275207163828911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_48
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 507
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34960c840aa41a60800000000000000
+      internalID: 7643921404060406845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_49
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 513
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd434c9df15202fa0800000000000000
+      internalID: -5827617099089693473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_50
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 502
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a422fcc6e23db4a0800000000000000
+      internalID: -6576043914028768091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_51
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 489
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7527e7b5cf6dee6e0800000000000000
+      internalID: -1806270021173874089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_52
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 500
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e1063237d063660800000000000000
+      internalID: 7365089028776926722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_53
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 464
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f6256394ccdc890800000000000000
+      internalID: -7436062794902769771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_54
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 485
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841a24838ca595ab0800000000000000
+      internalID: -5018880493743857336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_55
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 471
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4da107946a42f20800000000000000
+      internalID: 3397022853287826665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_56
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 463
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c944c8226da394210800000000000000
+      internalID: 1317649057359611036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_57
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c918d83a351f50800000000000000
+      internalID: 6851446423932225064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_58
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 439
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0fe7e675234d60800000000000000
+      internalID: 7873177766201330290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_59
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eac7998fb9624f0800000000000000
+      internalID: -853823587310850542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_60
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 438
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3272215d816c70800000000000000
+      internalID: 8962600113053776572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_61
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 446
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580c5c8cc7ba6c590800000000000000
+      internalID: -7654241964236881787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_62
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 403
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca421e730534d20800000000000000
+      internalID: 3261538756077071382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_63
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 414
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c55022993be2550800000000000000
+      internalID: 6138040812434709621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_64
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 415
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e121eed7e8498f0800000000000000
+      internalID: -534645784234025465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_65
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 378
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635badc2a0f9df370800000000000000
+      internalID: 8358011349520528694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_66
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 378
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e68342f8fd405a0800000000000000
+      internalID: -6555869351663604068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_67
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 352
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859e83b6bd27ff5c0800000000000000
+      internalID: -4179495642454234792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_68
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 353
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450e533a6854fe380800000000000000
+      internalID: -8939850290740993964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Figure_Logo_GOTOIA_69
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 325
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277271e0fffb11ca0800000000000000
+      internalID: -6047841722407901326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a0478d0f2d26b4094915be10711b21a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Figure_Logo_GOTOIA_0: -328356566768886184
+      Figure_Logo_GOTOIA_1: -2520205185969121052
+      Figure_Logo_GOTOIA_10: -1999898060722486499
+      Figure_Logo_GOTOIA_11: -3049602565937676584
+      Figure_Logo_GOTOIA_12: 8995683964016670801
+      Figure_Logo_GOTOIA_13: -2929021540168279550
+      Figure_Logo_GOTOIA_14: -4908877339870652191
+      Figure_Logo_GOTOIA_15: -6875075865737598067
+      Figure_Logo_GOTOIA_16: 2501724574534768917
+      Figure_Logo_GOTOIA_17: -5123109954121415915
+      Figure_Logo_GOTOIA_18: 9182963826307287502
+      Figure_Logo_GOTOIA_19: -7024910174919106529
+      Figure_Logo_GOTOIA_2: 2435607829731265969
+      Figure_Logo_GOTOIA_20: 4024789728208652955
+      Figure_Logo_GOTOIA_21: 3739521385255069807
+      Figure_Logo_GOTOIA_22: -6570622450415042781
+      Figure_Logo_GOTOIA_23: 5494890442720799100
+      Figure_Logo_GOTOIA_24: 3099783339326152901
+      Figure_Logo_GOTOIA_25: -3303642251113030565
+      Figure_Logo_GOTOIA_26: -1851736791966191949
+      Figure_Logo_GOTOIA_27: -1485403141896067803
+      Figure_Logo_GOTOIA_28: -1842617194984449220
+      Figure_Logo_GOTOIA_29: -591795148598097810
+      Figure_Logo_GOTOIA_3: 3927708847689878602
+      Figure_Logo_GOTOIA_30: 4237132690084478706
+      Figure_Logo_GOTOIA_31: -94750321100139231
+      Figure_Logo_GOTOIA_32: 2438639730293411609
+      Figure_Logo_GOTOIA_33: -8668378610286836859
+      Figure_Logo_GOTOIA_34: 6975299180779177956
+      Figure_Logo_GOTOIA_35: 7770106363922635285
+      Figure_Logo_GOTOIA_36: 7844765856755670872
+      Figure_Logo_GOTOIA_37: -4969433514687065719
+      Figure_Logo_GOTOIA_38: -2638124971633332434
+      Figure_Logo_GOTOIA_39: 1961771921238562769
+      Figure_Logo_GOTOIA_4: -2816403975621463469
+      Figure_Logo_GOTOIA_40: -6275872094289015651
+      Figure_Logo_GOTOIA_41: -9023578172082198950
+      Figure_Logo_GOTOIA_42: 6734730930256468372
+      Figure_Logo_GOTOIA_43: -929555279478051145
+      Figure_Logo_GOTOIA_44: -7534944390948683884
+      Figure_Logo_GOTOIA_45: 1131842444122394385
+      Figure_Logo_GOTOIA_46: -6380704827470468410
+      Figure_Logo_GOTOIA_47: -16275207163828911
+      Figure_Logo_GOTOIA_48: 7643921404060406845
+      Figure_Logo_GOTOIA_49: -5827617099089693473
+      Figure_Logo_GOTOIA_5: -8792084376072841225
+      Figure_Logo_GOTOIA_50: -6576043914028768091
+      Figure_Logo_GOTOIA_51: -1806270021173874089
+      Figure_Logo_GOTOIA_52: 7365089028776926722
+      Figure_Logo_GOTOIA_53: -7436062794902769771
+      Figure_Logo_GOTOIA_54: -5018880493743857336
+      Figure_Logo_GOTOIA_55: 3397022853287826665
+      Figure_Logo_GOTOIA_56: 1317649057359611036
+      Figure_Logo_GOTOIA_57: 6851446423932225064
+      Figure_Logo_GOTOIA_58: 7873177766201330290
+      Figure_Logo_GOTOIA_59: -853823587310850542
+      Figure_Logo_GOTOIA_6: 87069599083562977
+      Figure_Logo_GOTOIA_60: 8962600113053776572
+      Figure_Logo_GOTOIA_61: -7654241964236881787
+      Figure_Logo_GOTOIA_62: 3261538756077071382
+      Figure_Logo_GOTOIA_63: 6138040812434709621
+      Figure_Logo_GOTOIA_64: -534645784234025465
+      Figure_Logo_GOTOIA_65: 8358011349520528694
+      Figure_Logo_GOTOIA_66: -6555869351663604068
+      Figure_Logo_GOTOIA_67: -4179495642454234792
+      Figure_Logo_GOTOIA_68: -8939850290740993964
+      Figure_Logo_GOTOIA_69: -6047841722407901326
+      Figure_Logo_GOTOIA_7: 935084272550183149
+      Figure_Logo_GOTOIA_8: 9021799923119458115
+      Figure_Logo_GOTOIA_9: 6535107911293750396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

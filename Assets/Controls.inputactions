@@ -1,0 +1,62 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "LoadScene",
+            "id": "951f4520-1650-4c3c-9d9e-91149ca2c2b6",
+            "actions": [
+                {
+                    "name": "Load",
+                    "type": "Button",
+                    "id": "1aa2347c-bf31-4a1c-882a-e174f99c2126",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "297cb9e5-b9f3-4cba-8643-5bbf0d3304d5",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Load",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "UnloadScene",
+            "id": "04c5b374-2780-4217-b7c2-e1c4872a765d",
+            "actions": [
+                {
+                    "name": "Unload",
+                    "type": "Button",
+                    "id": "96cb72ad-7b2c-4f57-b310-d922e3721405",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7f854c5f-910a-401c-a2b6-c2704727a53a",
+                    "path": "<Keyboard>/u",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Unload",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
